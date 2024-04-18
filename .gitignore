@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Caches directory
+.caches/
+
+# Local history directory
+.history/
+
+# IntelliJ IDEA workspace files
+*.iml
+*.iws
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+target/
